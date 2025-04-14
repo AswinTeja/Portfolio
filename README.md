@@ -8,7 +8,6 @@ it includes sections :about,projects,achievements,contact,resume.
 #SECTION BAR
 ##ABOUT contains my profile photo and my description.
 ##PROJECTS contains the details of my  project such as title and short description and a ppt regarding project.
-##ACHIEVEMENTS contains title and description and also the certificate.
 ##CONTACT contains my ids from various socialmedia to interact with me.
 ##RESUME consists of my resume sheet.
 
